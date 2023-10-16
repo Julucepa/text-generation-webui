@@ -1,0 +1,12 @@
+| Texte en Chinois        | Traduction en Français                |
+|--------------------------|--------------------------------------|
+| 你好                     | Bonjour                              |
+| 我爱学习                 | J'aime étudier                       |
+| 中国是一个大国           | La Chine est un grand pays           |
+| 感谢您的帮助             | Merci pour votre aide                |
+| 我喜欢吃中餐             | J'aime manger de la cuisine chinoise |
+| 北京是中国的首都         | Pékin est la capitale de la Chine    |
+| 你喜欢喝茶吗？           | Aimes-tu boire du thé ?              |
+| 他们在学校学习数学       | Ils étudient les mathématiques à l'école |
+| 你的名字是什么？         | Comment tu t'appelles ?              |
+| 春节是中国的传统节日     | Le Nouvel An chinois est une fête traditionnelle en Chine |
